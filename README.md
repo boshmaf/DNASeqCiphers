@@ -1,5 +1,5 @@
-# DNASeqCrypto
-DNA sequence encryption schemes for [Qatar International Cybersecurity Competition - Genomics](https://www.hbku.edu.qa/en/qicc):
+# DNASeqCiphers
+DNA sequence ciphers for [Qatar International Cybersecurity Competition - Genomics](https://www.hbku.edu.qa/en/qicc):
 
 - [Easy](https://github.com/qcri/DNASeqCrypto#easy): A simple fixed-length binary rotate cipher.
 - [Medium](https://github.com/qcri/DNASeqCrypto#medium): A line-by-line SHA1 hash cipher.
