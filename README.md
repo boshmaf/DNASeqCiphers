@@ -1,9 +1,9 @@
 # DNASeqCiphers
 DNA sequence ciphers for [Qatar International Cybersecurity Competition - Genomics](https://www.hbku.edu.qa/en/qicc):
 
-- [Easy](https://github.com/qcri/DNASeqCrypto#easy): A simple fixed-length binary rotate cipher.
-- [Medium](https://github.com/qcri/DNASeqCrypto#medium): A line-by-line SHA1 hash cipher.
-- [Hard](https://github.com/qcri/DNASeqCrypto#hard): Password-based AES/CBC/PKCS#7 cipher.
+- [Easy](https://github.com/boshmaf/DNASeqCiphers#easy): A simple fixed-length binary rotate cipher.
+- [Medium](https://github.com/boshmaf/DNASeqCiphers#medium): A line-by-line SHA1 hash cipher.
+- [Hard](https://github.com/boshmaf/DNASeqCiphers#hard): Password-based AES/CBC/PKCS#7 cipher.
 
 Install Python3 dependencies before you start:
 ```
